@@ -1,8 +1,11 @@
 # 2.	Используя скрипт (.ps1 файл) с параметрами. Сохранить в текстовый файл на диске список из N запущенных(!) служб. (зеленым цветом выделены обязательные входные параметры скрипта)
 
 Param (
+    [Parameter(Mandatory)]
     [string]$file,
+    [Parameter(Mandatory)]
     [string]$folder,
+    [Parameter(Mandatory)]
     [int]$N
 )
 
