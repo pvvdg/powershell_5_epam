@@ -1,0 +1,58 @@
+﻿#TYPE System.IO.FileInfo
+"PSPath";"PSParentPath";"PSChildName";"PSDrive";"PSProvider";"PSIsContainer";"Mode";"VersionInfo";"BaseName";"Target";"LinkType";"Name";"Length";"DirectoryName";"Directory";"IsReadOnly";"Exists";"FullName";"Extension";"CreationTime";"CreationTimeUtc";"LastAccessTime";"LastAccessTimeUtc";"LastWriteTime";"LastWriteTimeUtc";"Attributes"
+"Microsoft.PowerShell.Core\FileSystem::D:\PS_PETRACHUK\2.txt";"Microsoft.PowerShell.Core\FileSystem::D:\PS_PETRACHUK";"2.txt";"D";"Microsoft.PowerShell.Core\FileSystem";"False";"-a----";"File:             D:\PS_PETRACHUK\2.txt
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+";"2";"System.Collections.Generic.List`1[System.String]";;"2.txt";"44";"D:\PS_PETRACHUK";"D:\PS_PETRACHUK";"False";"True";"D:\PS_PETRACHUK\2.txt";".txt";"01.02.2022 11:14:06";"01.02.2022 08:14:06";"04.02.2022 12:55:08";"04.02.2022 09:55:08";"01.02.2022 11:29:20";"01.02.2022 08:29:20";"Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\PS_PETRACHUK\file.txt";"Microsoft.PowerShell.Core\FileSystem::D:\PS_PETRACHUK";"file.txt";"D";"Microsoft.PowerShell.Core\FileSystem";"False";"-a----";"File:             D:\PS_PETRACHUK\file.txt
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+";"file";"System.Collections.Generic.List`1[System.String]";;"file.txt";"32";"D:\PS_PETRACHUK";"D:\PS_PETRACHUK";"False";"True";"D:\PS_PETRACHUK\file.txt";".txt";"18.01.2022 11:33:21";"18.01.2022 08:33:21";"04.02.2022 12:55:08";"04.02.2022 09:55:08";"01.02.2022 11:29:24";"01.02.2022 08:29:24";"Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\PS_PETRACHUK\Prakticheskoye rukovodstvo sistemnogo administratora.pdf";"Microsoft.PowerShell.Core\FileSystem::D:\PS_PETRACHUK";"Prakticheskoye rukovodstvo sistemnogo administratora.pdf";"D";"Microsoft.PowerShell.Core\FileSystem";"False";"-a----";"File:             D:\PS_PETRACHUK\Prakticheskoye rukovodstvo sistemnogo administratora.pdf
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+";"Prakticheskoye rukovodstvo sistemnogo administratora";"System.Collections.Generic.List`1[System.String]";;"Prakticheskoye rukovodstvo sistemnogo administratora.pdf";"16335414";"D:\PS_PETRACHUK";"D:\PS_PETRACHUK";"False";"True";"D:\PS_PETRACHUK\Prakticheskoye rukovodstvo sistemnogo administratora.pdf";".pdf";"01.02.2022 11:17:20";"01.02.2022 08:17:20";"04.02.2022 12:55:08";"04.02.2022 09:55:08";"20.05.2021 14:36:07";"20.05.2021 11:36:07";"Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\PS_PETRACHUK\service_running.txt";"Microsoft.PowerShell.Core\FileSystem::D:\PS_PETRACHUK";"service_running.txt";"D";"Microsoft.PowerShell.Core\FileSystem";"False";"-a----";"File:             D:\PS_PETRACHUK\service_running.txt
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+";"service_running";"System.Collections.Generic.List`1[System.String]";;"service_running.txt";"9516";"D:\PS_PETRACHUK";"D:\PS_PETRACHUK";"False";"True";"D:\PS_PETRACHUK\service_running.txt";".txt";"01.02.2022 11:04:12";"01.02.2022 08:04:12";"04.02.2022 12:55:08";"04.02.2022 09:55:08";"01.02.2022 11:04:12";"01.02.2022 08:04:12";"Archive"
